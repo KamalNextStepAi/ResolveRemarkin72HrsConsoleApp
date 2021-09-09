@@ -1,0 +1,14 @@
+E:\Dev\ResolveRemarkByMentor\ResolveRemarkByMentor\bin\Debug\ResolveRemarkByMentor.exe.config
+E:\Dev\ResolveRemarkByMentor\ResolveRemarkByMentor\bin\Debug\ResolveRemarkByMentor.exe
+E:\Dev\ResolveRemarkByMentor\ResolveRemarkByMentor\bin\Debug\ResolveRemarkByMentor.pdb
+E:\Dev\ResolveRemarkByMentor\ResolveRemarkByMentor\obj\Debug\ResolveRemarkByMentor.csproj.CoreCompileInputs.cache
+E:\Dev\ResolveRemarkByMentor\ResolveRemarkByMentor\obj\Debug\ResolveRemarkByMentor.exe
+E:\Dev\ResolveRemarkByMentor\ResolveRemarkByMentor\obj\Debug\ResolveRemarkByMentor.pdb
+E:\Dev\ResolveRemarkByMentor\ResolveRemarkByMentor\obj\Debug\ResolveRemarkByMentor.csproj.AssemblyReference.cache
+E:\Dev\Clonned_ResolveRemark\ResolveRemarkByMentor\bin\Debug\ResolveRemarkByMentor.exe.config
+E:\Dev\Clonned_ResolveRemark\ResolveRemarkByMentor\bin\Debug\ResolveRemarkByMentor.exe
+E:\Dev\Clonned_ResolveRemark\ResolveRemarkByMentor\bin\Debug\ResolveRemarkByMentor.pdb
+E:\Dev\Clonned_ResolveRemark\ResolveRemarkByMentor\obj\Debug\ResolveRemarkByMentor.csproj.AssemblyReference.cache
+E:\Dev\Clonned_ResolveRemark\ResolveRemarkByMentor\obj\Debug\ResolveRemarkByMentor.csproj.CoreCompileInputs.cache
+E:\Dev\Clonned_ResolveRemark\ResolveRemarkByMentor\obj\Debug\ResolveRemarkByMentor.exe
+E:\Dev\Clonned_ResolveRemark\ResolveRemarkByMentor\obj\Debug\ResolveRemarkByMentor.pdb
